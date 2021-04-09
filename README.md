@@ -1,2 +1,2 @@
 # revert-reset-practice
-Git
+Git動画講座　revert reset 練習用
